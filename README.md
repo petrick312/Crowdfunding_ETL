@@ -1,5 +1,6 @@
 # Crowdfunding_ETL
-Kat Snider-Belinski & Michelle Petras
+Completed and submitted by Kat Snider-Belinski & Michelle Petras
+Worked collectively with Carmen Wiggins and Haritha Koleti
 Module 13 : Project 2 : ETL
 
 ##  Instructions
